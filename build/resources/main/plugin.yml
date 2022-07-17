@@ -1,0 +1,16 @@
+name: MSG
+main: me.nelson131.msg.MSG
+version: 1.0.0
+api-version: 1.19
+description: redesign of msg/w/tell
+author: nelson131
+commands:
+  msg:
+    description: vanilla tell
+    usage: /msg /tell /w
+    aliases:
+      - tell
+      - w
+      - msg
+  soundmsg:
+    description: to choose sound for msg messages
